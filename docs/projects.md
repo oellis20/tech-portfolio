@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+##Charon's Coins
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+[Charon's Coins](https://senseilx.itch.io/charonscoins) is a 2-D platformer game made for the Black and White Game Jam.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+As the lead programmer, my duties included programming most of the necessary code in Unreal 4 using both Blueprints and C++, building the UI, and collaboration with the Game Designer and Level Designer to meet the needs of the game jam.
 
-![Add alternate text for image](./assets/rosemary.png)
+![Charon's Coins gameplay](./assets/0n6YXX.png)
