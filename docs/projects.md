@@ -3,7 +3,7 @@ id: projects
 title: Projects
 ---
 
-##Charon's Coins
+## Charon's Coins
 
 [Charon's Coins](https://senseilx.itch.io/charonscoins) is a 2-D platformer game made for the Black and White Game Jam.
 
